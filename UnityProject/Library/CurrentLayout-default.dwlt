@@ -15,9 +15,9 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
-    y: 42
+    y: 43
     width: 1920
-    height: 1008
+    height: 997
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
@@ -39,11 +39,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 343
-    width: 927
-    height: 615
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    y: 339
+    width: 1299
+    height: 608
+  m_MinSize: {x: 202, y: 222}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -68,12 +68,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 927
-    height: 958
+    width: 1299
+    height: 947
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 56
+  controlID: 33
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -90,9 +90,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 491
-    width: 409
-    height: 467
+    y: 485
+    width: 344
+    height: 462
   m_MinSize: {x: 234, y: 272}
   m_MaxSize: {x: 10004, y: 10022}
   m_ActualView: {fileID: 18}
@@ -117,14 +117,14 @@ MonoBehaviour:
   - {fileID: 4}
   m_Position:
     serializedVersion: 2
-    x: 927
+    x: 1299
     y: 0
-    width: 409
-    height: 958
+    width: 344
+    height: 947
   m_MinSize: {x: 234, y: 494}
   m_MaxSize: {x: 10004, y: 14044}
   vertical: 1
-  controlID: 76
+  controlID: 97
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1920
-    height: 1008
+    height: 997
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
@@ -192,11 +192,11 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1920
-    height: 958
-  m_MinSize: {x: 438, y: 494}
+    height: 947
+  m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 140
+  controlID: 32
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -213,7 +213,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 988
+    y: 977
     width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -235,10 +235,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 409
-    height: 491
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 344
+    height: 485
+  m_MinSize: {x: 204, y: 222}
+  m_MaxSize: {x: 4004, y: 4022}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -259,19 +259,19 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1336
+    x: 1643
     y: 0
-    width: 584
-    height: 958
-  m_MinSize: {x: 0, y: 0}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 15}
+    width: 277
+    height: 947
+  m_MinSize: {x: 277, y: 72}
+  m_MaxSize: {x: 4002, y: 4022}
+  m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
   - {fileID: 13}
   - {fileID: 15}
-  m_Selected: 2
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 2
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -289,10 +289,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 927
-    height: 343
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+    width: 1299
+    height: 339
+  m_MinSize: {x: 202, y: 222}
+  m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
@@ -432,7 +432,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -453,6 +453,9 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
+          - 1.3.2
+          - 1.3.3
+          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -507,7 +510,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -528,6 +531,9 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
+          - 1.3.2
+          - 1.3.3
+          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -582,7 +588,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -603,6 +609,9 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
+          - 1.3.2
+          - 1.3.3
+          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -657,7 +666,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -678,6 +687,9 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
+          - 1.3.2
+          - 1.3.3
+          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -732,7 +744,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -753,6 +765,9 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
+          - 1.3.2
+          - 1.3.3
+          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -807,7 +822,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -869,7 +884,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -931,7 +946,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -993,7 +1008,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -1056,7 +1071,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1080,6 +1095,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1091,6 +1108,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -1134,7 +1153,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1158,6 +1177,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1169,6 +1190,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -1212,7 +1235,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1236,6 +1259,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1247,6 +1272,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -1290,7 +1317,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1314,6 +1341,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1325,6 +1354,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -1368,7 +1399,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1392,6 +1423,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1403,6 +1436,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -1446,7 +1481,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1470,6 +1505,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1481,6 +1518,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -1524,7 +1563,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1548,6 +1587,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1559,6 +1600,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -1602,7 +1645,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1626,6 +1669,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1637,6 +1682,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -1680,7 +1727,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1704,6 +1751,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1715,6 +1764,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -1743,7 +1794,7 @@ MonoBehaviour:
         discovery of installations, etc.
       Category: 
       State: 1
-      IsLatest: 1
+      IsLatest: 0
       Group: Packages
       Type: 
       Origin: 1
@@ -1758,7 +1809,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1782,6 +1833,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1793,6 +1846,172 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
+          m_Recommended: 1.1.4
+        m_Dependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_Keywords: []
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637001065180000000
+      IsInstalled: 0
+    - Name: com.unity.ide.rider
+      DisplayName: Rider Editor
+      _Version: 1.2.1
+      Description: Code editor integration for supporting Rider as code editor for
+        unity. Adds support for generating csproj files for code completion, auto
+        discovery of installations, etc.
+      Category: 
+      State: 1
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.ide.rider@1.1.0
+        m_IsDirectDependency: 1
+        m_Version: 1.1.0
+        m_Source: 1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_AssetPath: Packages/com.unity.ide.rider
+        m_Name: com.unity.ide.rider
+        m_DisplayName: Rider Editor
+        m_Category: 
+        m_Type: 
+        m_Description: Code editor integration for supporting Rider as code editor
+          for unity. Adds support for generating csproj files for code completion,
+          auto discovery of installations, etc.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
+          m_Compatible:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
+          m_Recommended: 1.1.4
+        m_Dependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_Keywords: []
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637001065180000000
+      IsInstalled: 0
+    - Name: com.unity.ide.rider
+      DisplayName: Rider Editor
+      _Version: 2.0.0-preview
+      Description: Code editor integration for supporting Rider as code editor for
+        unity. Adds support for generating csproj files for code completion, auto
+        discovery of installations, etc.
+      Category: 
+      State: 1
+      IsLatest: 1
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.ide.rider@1.1.0
+        m_IsDirectDependency: 1
+        m_Version: 1.1.0
+        m_Source: 1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_AssetPath: Packages/com.unity.ide.rider
+        m_Name: com.unity.ide.rider
+        m_DisplayName: Rider Editor
+        m_Category: 
+        m_Type: 
+        m_Description: Code editor integration for supporting Rider as code editor
+          for unity. Adds support for generating csproj files for code completion,
+          auto discovery of installations, etc.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
+          m_Compatible:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -1836,7 +2055,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -1901,7 +2120,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -1966,7 +2185,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2031,7 +2250,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2096,7 +2315,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2161,7 +2380,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2283,7 +2502,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2313,6 +2532,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -2332,6 +2552,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -2375,7 +2596,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2405,6 +2626,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -2424,6 +2646,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -2467,7 +2690,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2497,6 +2720,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -2516,6 +2740,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -2559,7 +2784,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2589,6 +2814,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -2608,6 +2834,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -2651,7 +2878,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2681,6 +2908,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -2700,6 +2928,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -2743,7 +2972,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2773,6 +3002,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -2792,6 +3022,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -2835,7 +3066,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2865,6 +3096,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -2884,6 +3116,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -2927,7 +3160,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -2957,6 +3190,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -2976,6 +3210,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3019,7 +3254,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3049,6 +3284,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -3068,6 +3304,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3111,7 +3348,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3141,6 +3378,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -3160,6 +3398,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3203,7 +3442,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3233,6 +3472,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -3252,6 +3492,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3295,7 +3536,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3325,6 +3566,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -3344,6 +3586,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3387,7 +3630,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3417,6 +3660,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -3436,6 +3680,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3479,7 +3724,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3509,6 +3754,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -3528,6 +3774,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3571,7 +3818,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3601,6 +3848,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -3620,6 +3868,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3663,7 +3912,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3693,6 +3942,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -3712,6 +3962,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3755,7 +4006,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3785,6 +4036,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -3804,6 +4056,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3832,7 +4085,7 @@ MonoBehaviour:
       Description: Test framework for running Edit mode and Play mode test in Unity.
       Category: Unity Test Framework
       State: 1
-      IsLatest: 1
+      IsLatest: 0
       Group: Packages
       Type: 
       Origin: 1
@@ -3847,7 +4100,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -3877,6 +4130,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -3896,6 +4150,101 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
+          m_Recommended: 1.0.18
+        m_Dependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_Keywords:
+        - Test
+        - TestFramework
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 636929353520000000
+      IsInstalled: 0
+    - Name: com.unity.test-framework
+      DisplayName: Test Framework
+      _Version: 1.1.9
+      Description: Test framework for running Edit mode and Play mode test in Unity.
+      Category: Unity Test Framework
+      State: 1
+      IsLatest: 1
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.test-framework@1.0.13
+        m_IsDirectDependency: 1
+        m_Version: 1.0.13
+        m_Source: 1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_AssetPath: Packages/com.unity.test-framework
+        m_Name: com.unity.test-framework
+        m_DisplayName: Test Framework
+        m_Category: Unity Test Framework
+        m_Type: 
+        m_Description: Test framework for running Edit mode and Play mode test in
+          Unity.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.0.4-preview
+          - 0.0.29-preview
+          - 1.0.0
+          - 1.0.7
+          - 1.0.9
+          - 1.0.11
+          - 1.0.12
+          - 1.0.13
+          - 1.0.14
+          - 1.0.16
+          - 1.0.17
+          - 1.0.18
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2
+          - 1.1.3
+          - 1.1.5
+          - 1.1.8
+          - 1.1.9
+          m_Compatible:
+          - 0.0.4-preview
+          - 0.0.29-preview
+          - 1.0.0
+          - 1.0.7
+          - 1.0.9
+          - 1.0.11
+          - 1.0.12
+          - 1.0.13
+          - 1.0.14
+          - 1.0.16
+          - 1.0.17
+          - 1.0.18
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2
+          - 1.1.3
+          - 1.1.5
+          - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -3965,7 +4314,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4023,11 +4372,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -4050,11 +4402,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -4126,7 +4480,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4184,11 +4538,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -4211,11 +4568,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -4287,7 +4646,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4345,11 +4704,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -4372,11 +4734,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -4448,7 +4812,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4506,11 +4870,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -4533,11 +4900,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -4609,7 +4978,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4667,11 +5036,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -4694,11 +5066,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -4770,7 +5144,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4828,11 +5202,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -4855,11 +5232,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -4931,7 +5310,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -4989,11 +5368,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -5016,11 +5398,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -5092,7 +5476,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5150,11 +5534,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -5177,11 +5564,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -5253,7 +5642,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5311,11 +5700,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -5338,11 +5730,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -5414,7 +5808,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5472,11 +5866,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -5499,11 +5896,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -5575,7 +5974,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5633,11 +6032,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -5660,11 +6062,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -5736,7 +6140,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5794,11 +6198,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -5821,11 +6228,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -5897,7 +6306,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -5955,11 +6364,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -5982,11 +6394,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -6058,7 +6472,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6116,11 +6530,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -6143,11 +6560,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -6219,7 +6638,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6277,11 +6696,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -6304,11 +6726,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -6380,7 +6804,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6438,11 +6862,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -6465,11 +6892,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -6541,7 +6970,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6599,11 +7028,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -6626,11 +7058,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -6702,7 +7136,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6760,11 +7194,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -6787,11 +7224,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -6863,7 +7302,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -6921,11 +7360,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -6948,11 +7390,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7024,7 +7468,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7082,11 +7526,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -7109,11 +7556,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7185,7 +7634,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7243,11 +7692,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -7270,11 +7722,179 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          m_Recommended: 2.0.1
+        m_Dependencies:
+        - m_Name: com.unity.ugui
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ugui
+          m_Version: 1.0.0
+        m_Keywords:
+        - TextMeshPro
+        - TextMesh Pro
+        - Text
+        - SDF
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 636933709630000000
+      IsInstalled: 0
+    - Name: com.unity.textmeshpro
+      DisplayName: TextMesh Pro
+      _Version: 1.5.0-preview.3
+      Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s the
+        perfect replacement for Unity''s UI Text and the legacy Text Mesh.
+
+
+        Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
+        along with a set of custom shaders; delivering substantial visual quality
+        improvements while giving users incredible flexibility when it comes to text
+        styling and texturing.
+
+
+        TextMesh Pro provides Improved Control over text formatting and layout with
+        features like character, word, line and paragraph spacing, kerning, justified
+        text, Links, over 30 Rich Text Tags available, support for Multi Font & Sprites,
+        Custom Styles and more.
+
+
+        Great performance. Since the geometry created by TextMesh Pro uses two triangles
+        per character just like Unity''s text components, this improved visual quality
+        and flexibility comes at no additional performance cost.
+
+
+
+        Special Notes:
+
+        ==========
+
+        This release requires .Net 4.x Scripting Runtime'
+      Category: Text Rendering
+      State: 1
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.textmeshpro@2.0.1
+        m_IsDirectDependency: 1
+        m_Version: 2.0.1
+        m_Source: 1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_AssetPath: Packages/com.unity.textmeshpro
+        m_Name: com.unity.textmeshpro
+        m_DisplayName: TextMesh Pro
+        m_Category: Text Rendering
+        m_Type: 
+        m_Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s
+          the perfect replacement for Unity''s UI Text and the legacy Text Mesh.
+
+
+          Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
+          along with a set of custom shaders; delivering substantial visual quality
+          improvements while giving users incredible flexibility when it comes to
+          text styling and texturing.
+
+
+          TextMesh Pro provides Improved Control over text formatting and layout with
+          features like character, word, line and paragraph spacing, kerning, justified
+          text, Links, over 30 Rich Text Tags available, support for Multi Font &
+          Sprites, Custom Styles and more.
+
+
+          Great performance. Since the geometry created by TextMesh Pro uses two triangles
+          per character just like Unity''s text components, this improved visual quality
+          and flexibility comes at no additional performance cost.
+
+
+
+          Special Notes:
+
+          ==========
+
+          This release requires .Net 4.x Scripting Runtime'
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.2
+          - 1.0.21
+          - 1.0.23
+          - 1.0.25
+          - 1.0.26
+          - 1.1.0
+          - 1.2.0
+          - 1.2.1
+          - 1.2.2
+          - 1.2.3
+          - 1.2.4
+          - 1.3.0-preview
+          - 1.3.0
+          - 1.4.0-preview.1b
+          - 1.4.0-preview.2a
+          - 1.4.0-preview.3a
+          - 1.4.0
+          - 1.4.1-preview.1
+          - 1.4.1
+          - 1.5.0-preview.1
+          - 1.5.0-preview.2
+          - 1.5.0-preview.3
+          - 2.0.0
+          - 2.0.1-preview.1
+          - 2.0.1
+          - 2.1.0-preview.1
+          - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
+          m_Compatible:
+          - 0.1.2
+          - 1.0.21
+          - 1.0.23
+          - 1.0.25
+          - 1.0.26
+          - 1.1.0
+          - 1.2.0
+          - 1.2.1
+          - 1.2.2
+          - 1.2.3
+          - 1.2.4
+          - 1.3.0-preview
+          - 1.3.0
+          - 1.4.0-preview.1b
+          - 1.4.0-preview.2a
+          - 1.4.0-preview.3a
+          - 1.4.0
+          - 1.4.1-preview.1
+          - 1.4.1
+          - 1.5.0-preview.1
+          - 1.5.0-preview.2
+          - 1.5.0-preview.3
+          - 2.0.0
+          - 2.0.1-preview.1
+          - 2.0.1
+          - 2.1.0-preview.1
+          - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7346,7 +7966,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7404,11 +8024,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -7431,11 +8054,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7507,7 +8132,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7565,11 +8190,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -7592,11 +8220,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7668,7 +8298,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7726,11 +8356,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -7753,11 +8386,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7829,7 +8464,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7887,11 +8522,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -7914,11 +8552,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7975,7 +8615,7 @@ MonoBehaviour:
         This release requires .Net 4.x Scripting Runtime'
       Category: Text Rendering
       State: 1
-      IsLatest: 1
+      IsLatest: 0
       Group: Packages
       Type: 
       Origin: 1
@@ -7990,7 +8630,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8048,11 +8688,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -8075,11 +8718,179 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          m_Recommended: 2.0.1
+        m_Dependencies:
+        - m_Name: com.unity.ugui
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ugui
+          m_Version: 1.0.0
+        m_Keywords:
+        - TextMeshPro
+        - TextMesh Pro
+        - Text
+        - SDF
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 636933709630000000
+      IsInstalled: 0
+    - Name: com.unity.textmeshpro
+      DisplayName: TextMesh Pro
+      _Version: 2.1.0-preview.3
+      Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s the
+        perfect replacement for Unity''s UI Text and the legacy Text Mesh.
+
+
+        Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
+        along with a set of custom shaders; delivering substantial visual quality
+        improvements while giving users incredible flexibility when it comes to text
+        styling and texturing.
+
+
+        TextMesh Pro provides Improved Control over text formatting and layout with
+        features like character, word, line and paragraph spacing, kerning, justified
+        text, Links, over 30 Rich Text Tags available, support for Multi Font & Sprites,
+        Custom Styles and more.
+
+
+        Great performance. Since the geometry created by TextMesh Pro uses two triangles
+        per character just like Unity''s text components, this improved visual quality
+        and flexibility comes at no additional performance cost.
+
+
+
+        Special Notes:
+
+        ==========
+
+        This release requires .Net 4.x Scripting Runtime'
+      Category: Text Rendering
+      State: 1
+      IsLatest: 1
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.textmeshpro@2.0.1
+        m_IsDirectDependency: 1
+        m_Version: 2.0.1
+        m_Source: 1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_AssetPath: Packages/com.unity.textmeshpro
+        m_Name: com.unity.textmeshpro
+        m_DisplayName: TextMesh Pro
+        m_Category: Text Rendering
+        m_Type: 
+        m_Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s
+          the perfect replacement for Unity''s UI Text and the legacy Text Mesh.
+
+
+          Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
+          along with a set of custom shaders; delivering substantial visual quality
+          improvements while giving users incredible flexibility when it comes to
+          text styling and texturing.
+
+
+          TextMesh Pro provides Improved Control over text formatting and layout with
+          features like character, word, line and paragraph spacing, kerning, justified
+          text, Links, over 30 Rich Text Tags available, support for Multi Font &
+          Sprites, Custom Styles and more.
+
+
+          Great performance. Since the geometry created by TextMesh Pro uses two triangles
+          per character just like Unity''s text components, this improved visual quality
+          and flexibility comes at no additional performance cost.
+
+
+
+          Special Notes:
+
+          ==========
+
+          This release requires .Net 4.x Scripting Runtime'
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.2
+          - 1.0.21
+          - 1.0.23
+          - 1.0.25
+          - 1.0.26
+          - 1.1.0
+          - 1.2.0
+          - 1.2.1
+          - 1.2.2
+          - 1.2.3
+          - 1.2.4
+          - 1.3.0-preview
+          - 1.3.0
+          - 1.4.0-preview.1b
+          - 1.4.0-preview.2a
+          - 1.4.0-preview.3a
+          - 1.4.0
+          - 1.4.1-preview.1
+          - 1.4.1
+          - 1.5.0-preview.1
+          - 1.5.0-preview.2
+          - 1.5.0-preview.3
+          - 2.0.0
+          - 2.0.1-preview.1
+          - 2.0.1
+          - 2.1.0-preview.1
+          - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
+          m_Compatible:
+          - 0.1.2
+          - 1.0.21
+          - 1.0.23
+          - 1.0.25
+          - 1.0.26
+          - 1.1.0
+          - 1.2.0
+          - 1.2.1
+          - 1.2.2
+          - 1.2.3
+          - 1.2.4
+          - 1.3.0-preview
+          - 1.3.0
+          - 1.4.0-preview.1b
+          - 1.4.0-preview.2a
+          - 1.4.0-preview.3a
+          - 1.4.0
+          - 1.4.1-preview.1
+          - 1.4.1
+          - 1.5.0-preview.1
+          - 1.5.0-preview.2
+          - 1.5.0-preview.3
+          - 2.0.0
+          - 2.0.1-preview.1
+          - 2.0.1
+          - 2.1.0-preview.1
+          - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -10073,7 +10884,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -10094,6 +10905,9 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
+          - 1.3.2
+          - 1.3.3
+          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -10148,7 +10962,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -10169,6 +10983,9 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
+          - 1.3.2
+          - 1.3.3
+          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -10223,7 +11040,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -10244,6 +11061,9 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
+          - 1.3.2
+          - 1.3.3
+          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -10298,7 +11118,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -10319,6 +11139,9 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
+          - 1.3.2
+          - 1.3.3
+          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -10373,7 +11196,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -10394,6 +11217,9 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
+          - 1.3.2
+          - 1.3.3
+          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -10448,7 +11274,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -10510,7 +11336,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -10572,7 +11398,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -10634,7 +11460,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -10697,7 +11523,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -10721,6 +11547,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -10732,6 +11560,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -10775,7 +11605,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -10799,6 +11629,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -10810,6 +11642,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -10853,7 +11687,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -10877,6 +11711,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -10888,6 +11724,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -10931,7 +11769,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -10955,6 +11793,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -10966,6 +11806,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -11009,7 +11851,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11033,6 +11875,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -11044,6 +11888,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -11087,7 +11933,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11111,6 +11957,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -11122,6 +11970,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -11165,7 +12015,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11189,6 +12039,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -11200,6 +12052,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -11243,7 +12097,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11267,6 +12121,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -11278,6 +12134,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -11321,7 +12179,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11345,6 +12203,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -11356,6 +12216,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -11384,7 +12246,7 @@ MonoBehaviour:
         discovery of installations, etc.
       Category: 
       State: 1
-      IsLatest: 1
+      IsLatest: 0
       Group: Packages
       Type: 
       Origin: 1
@@ -11399,7 +12261,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -11423,6 +12285,8 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -11434,6 +12298,172 @@ MonoBehaviour:
           - 1.1.4-preview
           - 1.1.4
           - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
+          m_Recommended: 1.1.4
+        m_Dependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_Keywords: []
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637001065180000000
+      IsInstalled: 0
+    - Name: com.unity.ide.rider
+      DisplayName: Rider Editor
+      _Version: 1.2.1
+      Description: Code editor integration for supporting Rider as code editor for
+        unity. Adds support for generating csproj files for code completion, auto
+        discovery of installations, etc.
+      Category: 
+      State: 1
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.ide.rider@1.1.0
+        m_IsDirectDependency: 1
+        m_Version: 1.1.0
+        m_Source: 1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_AssetPath: Packages/com.unity.ide.rider
+        m_Name: com.unity.ide.rider
+        m_DisplayName: Rider Editor
+        m_Category: 
+        m_Type: 
+        m_Description: Code editor integration for supporting Rider as code editor
+          for unity. Adds support for generating csproj files for code completion,
+          auto discovery of installations, etc.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
+          m_Compatible:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
+          m_Recommended: 1.1.4
+        m_Dependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_Keywords: []
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637001065180000000
+      IsInstalled: 0
+    - Name: com.unity.ide.rider
+      DisplayName: Rider Editor
+      _Version: 2.0.0-preview
+      Description: Code editor integration for supporting Rider as code editor for
+        unity. Adds support for generating csproj files for code completion, auto
+        discovery of installations, etc.
+      Category: 
+      State: 1
+      IsLatest: 1
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.ide.rider@1.1.0
+        m_IsDirectDependency: 1
+        m_Version: 1.1.0
+        m_Source: 1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_AssetPath: Packages/com.unity.ide.rider
+        m_Name: com.unity.ide.rider
+        m_DisplayName: Rider Editor
+        m_Category: 
+        m_Type: 
+        m_Description: Code editor integration for supporting Rider as code editor
+          for unity. Adds support for generating csproj files for code completion,
+          auto discovery of installations, etc.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
+          m_Compatible:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          - 1.2.1
+          - 2.0.0-preview
           m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -11477,7 +12507,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -11542,7 +12572,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -11607,7 +12637,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -11672,7 +12702,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -11737,7 +12767,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -11802,7 +12832,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.2
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.ide.vscode@1.1.2
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -11924,7 +12954,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -11954,6 +12984,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -11973,6 +13004,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12016,7 +13048,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12046,6 +13078,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12065,6 +13098,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12108,7 +13142,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12138,6 +13172,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12157,6 +13192,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12200,7 +13236,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12230,6 +13266,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12249,6 +13286,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12292,7 +13330,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12322,6 +13360,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12341,6 +13380,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12384,7 +13424,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12414,6 +13454,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12433,6 +13474,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12476,7 +13518,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12506,6 +13548,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12525,6 +13568,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12568,7 +13612,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12598,6 +13642,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12617,6 +13662,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12660,7 +13706,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12690,6 +13736,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12709,6 +13756,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12752,7 +13800,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12782,6 +13830,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12801,6 +13850,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12844,7 +13894,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12874,6 +13924,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12893,6 +13944,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -12936,7 +13988,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -12966,6 +14018,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -12985,6 +14038,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -13028,7 +14082,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13058,6 +14112,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -13077,6 +14132,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -13120,7 +14176,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13150,6 +14206,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -13169,6 +14226,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -13212,7 +14270,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13242,6 +14300,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -13261,6 +14320,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -13304,7 +14364,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13334,6 +14394,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -13353,6 +14414,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -13396,7 +14458,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13426,6 +14488,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -13445,6 +14508,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -13473,7 +14537,7 @@ MonoBehaviour:
       Description: Test framework for running Edit mode and Play mode test in Unity.
       Category: Unity Test Framework
       State: 1
-      IsLatest: 1
+      IsLatest: 0
       Group: Packages
       Type: 
       Origin: 1
@@ -13488,7 +14552,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -13518,6 +14582,7 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
           m_Compatible:
           - 0.0.4-preview
           - 0.0.29-preview
@@ -13537,6 +14602,101 @@ MonoBehaviour:
           - 1.1.3
           - 1.1.5
           - 1.1.8
+          - 1.1.9
+          m_Recommended: 1.0.18
+        m_Dependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_Keywords:
+        - Test
+        - TestFramework
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 636929353520000000
+      IsInstalled: 0
+    - Name: com.unity.test-framework
+      DisplayName: Test Framework
+      _Version: 1.1.9
+      Description: Test framework for running Edit mode and Play mode test in Unity.
+      Category: Unity Test Framework
+      State: 1
+      IsLatest: 1
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.test-framework@1.0.13
+        m_IsDirectDependency: 1
+        m_Version: 1.0.13
+        m_Source: 1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_AssetPath: Packages/com.unity.test-framework
+        m_Name: com.unity.test-framework
+        m_DisplayName: Test Framework
+        m_Category: Unity Test Framework
+        m_Type: 
+        m_Description: Test framework for running Edit mode and Play mode test in
+          Unity.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.0.4-preview
+          - 0.0.29-preview
+          - 1.0.0
+          - 1.0.7
+          - 1.0.9
+          - 1.0.11
+          - 1.0.12
+          - 1.0.13
+          - 1.0.14
+          - 1.0.16
+          - 1.0.17
+          - 1.0.18
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2
+          - 1.1.3
+          - 1.1.5
+          - 1.1.8
+          - 1.1.9
+          m_Compatible:
+          - 0.0.4-preview
+          - 0.0.29-preview
+          - 1.0.0
+          - 1.0.7
+          - 1.0.9
+          - 1.0.11
+          - 1.0.12
+          - 1.0.13
+          - 1.0.14
+          - 1.0.16
+          - 1.0.17
+          - 1.0.18
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2
+          - 1.1.3
+          - 1.1.5
+          - 1.1.8
+          - 1.1.9
           m_Recommended: 1.0.18
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
@@ -13606,7 +14766,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -13664,11 +14824,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -13691,11 +14854,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -13767,7 +14932,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -13825,11 +14990,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -13852,11 +15020,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -13928,7 +15098,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -13986,11 +15156,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -14013,11 +15186,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -14089,7 +15264,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -14147,11 +15322,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -14174,11 +15352,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -14250,7 +15430,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -14308,11 +15488,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -14335,11 +15518,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -14411,7 +15596,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -14469,11 +15654,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -14496,11 +15684,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -14572,7 +15762,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -14630,11 +15820,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -14657,11 +15850,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -14733,7 +15928,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -14791,11 +15986,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -14818,11 +16016,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -14894,7 +16094,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -14952,11 +16152,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -14979,11 +16182,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -15055,7 +16260,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15113,11 +16318,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -15140,11 +16348,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -15216,7 +16426,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15274,11 +16484,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -15301,11 +16514,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -15377,7 +16592,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15435,11 +16650,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -15462,11 +16680,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -15538,7 +16758,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15596,11 +16816,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -15623,11 +16846,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -15699,7 +16924,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15757,11 +16982,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -15784,11 +17012,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -15860,7 +17090,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -15918,11 +17148,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -15945,11 +17178,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -16021,7 +17256,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16079,11 +17314,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -16106,11 +17344,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -16182,7 +17422,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16240,11 +17480,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -16267,11 +17510,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -16343,7 +17588,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16401,11 +17646,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -16428,11 +17676,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -16504,7 +17754,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16562,11 +17812,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -16589,11 +17842,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -16665,7 +17920,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16723,11 +17978,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -16750,11 +18008,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -16826,7 +18086,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -16884,11 +18144,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -16911,11 +18174,179 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          m_Recommended: 2.0.1
+        m_Dependencies:
+        - m_Name: com.unity.ugui
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ugui
+          m_Version: 1.0.0
+        m_Keywords:
+        - TextMeshPro
+        - TextMesh Pro
+        - Text
+        - SDF
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 636933709630000000
+      IsInstalled: 0
+    - Name: com.unity.textmeshpro
+      DisplayName: TextMesh Pro
+      _Version: 1.5.0-preview.3
+      Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s the
+        perfect replacement for Unity''s UI Text and the legacy Text Mesh.
+
+
+        Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
+        along with a set of custom shaders; delivering substantial visual quality
+        improvements while giving users incredible flexibility when it comes to text
+        styling and texturing.
+
+
+        TextMesh Pro provides Improved Control over text formatting and layout with
+        features like character, word, line and paragraph spacing, kerning, justified
+        text, Links, over 30 Rich Text Tags available, support for Multi Font & Sprites,
+        Custom Styles and more.
+
+
+        Great performance. Since the geometry created by TextMesh Pro uses two triangles
+        per character just like Unity''s text components, this improved visual quality
+        and flexibility comes at no additional performance cost.
+
+
+
+        Special Notes:
+
+        ==========
+
+        This release requires .Net 4.x Scripting Runtime'
+      Category: Text Rendering
+      State: 1
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.textmeshpro@2.0.1
+        m_IsDirectDependency: 1
+        m_Version: 2.0.1
+        m_Source: 1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_AssetPath: Packages/com.unity.textmeshpro
+        m_Name: com.unity.textmeshpro
+        m_DisplayName: TextMesh Pro
+        m_Category: Text Rendering
+        m_Type: 
+        m_Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s
+          the perfect replacement for Unity''s UI Text and the legacy Text Mesh.
+
+
+          Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
+          along with a set of custom shaders; delivering substantial visual quality
+          improvements while giving users incredible flexibility when it comes to
+          text styling and texturing.
+
+
+          TextMesh Pro provides Improved Control over text formatting and layout with
+          features like character, word, line and paragraph spacing, kerning, justified
+          text, Links, over 30 Rich Text Tags available, support for Multi Font &
+          Sprites, Custom Styles and more.
+
+
+          Great performance. Since the geometry created by TextMesh Pro uses two triangles
+          per character just like Unity''s text components, this improved visual quality
+          and flexibility comes at no additional performance cost.
+
+
+
+          Special Notes:
+
+          ==========
+
+          This release requires .Net 4.x Scripting Runtime'
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.2
+          - 1.0.21
+          - 1.0.23
+          - 1.0.25
+          - 1.0.26
+          - 1.1.0
+          - 1.2.0
+          - 1.2.1
+          - 1.2.2
+          - 1.2.3
+          - 1.2.4
+          - 1.3.0-preview
+          - 1.3.0
+          - 1.4.0-preview.1b
+          - 1.4.0-preview.2a
+          - 1.4.0-preview.3a
+          - 1.4.0
+          - 1.4.1-preview.1
+          - 1.4.1
+          - 1.5.0-preview.1
+          - 1.5.0-preview.2
+          - 1.5.0-preview.3
+          - 2.0.0
+          - 2.0.1-preview.1
+          - 2.0.1
+          - 2.1.0-preview.1
+          - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
+          m_Compatible:
+          - 0.1.2
+          - 1.0.21
+          - 1.0.23
+          - 1.0.25
+          - 1.0.26
+          - 1.1.0
+          - 1.2.0
+          - 1.2.1
+          - 1.2.2
+          - 1.2.3
+          - 1.2.4
+          - 1.3.0-preview
+          - 1.3.0
+          - 1.4.0-preview.1b
+          - 1.4.0-preview.2a
+          - 1.4.0-preview.3a
+          - 1.4.0
+          - 1.4.1-preview.1
+          - 1.4.1
+          - 1.5.0-preview.1
+          - 1.5.0-preview.2
+          - 1.5.0-preview.3
+          - 2.0.0
+          - 2.0.1-preview.1
+          - 2.0.1
+          - 2.1.0-preview.1
+          - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -16987,7 +18418,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17045,11 +18476,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -17072,11 +18506,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -17148,7 +18584,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17206,11 +18642,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -17233,11 +18672,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -17309,7 +18750,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17367,11 +18808,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -17394,11 +18838,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -17470,7 +18916,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17528,11 +18974,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -17555,11 +19004,13 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -17616,7 +19067,7 @@ MonoBehaviour:
         This release requires .Net 4.x Scripting Runtime'
       Category: Text Rendering
       State: 1
-      IsLatest: 1
+      IsLatest: 0
       Group: Packages
       Type: 
       Origin: 1
@@ -17631,7 +19082,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -17689,11 +19140,14 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -17716,11 +19170,179 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
+          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          m_Recommended: 2.0.1
+        m_Dependencies:
+        - m_Name: com.unity.ugui
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ugui
+          m_Version: 1.0.0
+        m_Keywords:
+        - TextMeshPro
+        - TextMesh Pro
+        - Text
+        - SDF
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 636933709630000000
+      IsInstalled: 0
+    - Name: com.unity.textmeshpro
+      DisplayName: TextMesh Pro
+      _Version: 2.1.0-preview.3
+      Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s the
+        perfect replacement for Unity''s UI Text and the legacy Text Mesh.
+
+
+        Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
+        along with a set of custom shaders; delivering substantial visual quality
+        improvements while giving users incredible flexibility when it comes to text
+        styling and texturing.
+
+
+        TextMesh Pro provides Improved Control over text formatting and layout with
+        features like character, word, line and paragraph spacing, kerning, justified
+        text, Links, over 30 Rich Text Tags available, support for Multi Font & Sprites,
+        Custom Styles and more.
+
+
+        Great performance. Since the geometry created by TextMesh Pro uses two triangles
+        per character just like Unity''s text components, this improved visual quality
+        and flexibility comes at no additional performance cost.
+
+
+
+        Special Notes:
+
+        ==========
+
+        This release requires .Net 4.x Scripting Runtime'
+      Category: Text Rendering
+      State: 1
+      IsLatest: 1
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.textmeshpro@2.0.1
+        m_IsDirectDependency: 1
+        m_Version: 2.0.1
+        m_Source: 1
+        m_ResolvedPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_AssetPath: Packages/com.unity.textmeshpro
+        m_Name: com.unity.textmeshpro
+        m_DisplayName: TextMesh Pro
+        m_Category: Text Rendering
+        m_Type: 
+        m_Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s
+          the perfect replacement for Unity''s UI Text and the legacy Text Mesh.
+
+
+          Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
+          along with a set of custom shaders; delivering substantial visual quality
+          improvements while giving users incredible flexibility when it comes to
+          text styling and texturing.
+
+
+          TextMesh Pro provides Improved Control over text formatting and layout with
+          features like character, word, line and paragraph spacing, kerning, justified
+          text, Links, over 30 Rich Text Tags available, support for Multi Font &
+          Sprites, Custom Styles and more.
+
+
+          Great performance. Since the geometry created by TextMesh Pro uses two triangles
+          per character just like Unity''s text components, this improved visual quality
+          and flexibility comes at no additional performance cost.
+
+
+
+          Special Notes:
+
+          ==========
+
+          This release requires .Net 4.x Scripting Runtime'
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 0.1.2
+          - 1.0.21
+          - 1.0.23
+          - 1.0.25
+          - 1.0.26
+          - 1.1.0
+          - 1.2.0
+          - 1.2.1
+          - 1.2.2
+          - 1.2.3
+          - 1.2.4
+          - 1.3.0-preview
+          - 1.3.0
+          - 1.4.0-preview.1b
+          - 1.4.0-preview.2a
+          - 1.4.0-preview.3a
+          - 1.4.0
+          - 1.4.1-preview.1
+          - 1.4.1
+          - 1.5.0-preview.1
+          - 1.5.0-preview.2
+          - 1.5.0-preview.3
+          - 2.0.0
+          - 2.0.1-preview.1
+          - 2.0.1
+          - 2.1.0-preview.1
+          - 2.1.0-preview.2
+          - 2.1.0-preview.3
+          - 3.0.0-preview.3
+          m_Compatible:
+          - 0.1.2
+          - 1.0.21
+          - 1.0.23
+          - 1.0.25
+          - 1.0.26
+          - 1.1.0
+          - 1.2.0
+          - 1.2.1
+          - 1.2.2
+          - 1.2.3
+          - 1.2.4
+          - 1.3.0-preview
+          - 1.3.0
+          - 1.4.0-preview.1b
+          - 1.4.0-preview.2a
+          - 1.4.0-preview.3a
+          - 1.4.0
+          - 1.4.1-preview.1
+          - 1.4.1
+          - 1.5.0-preview.1
+          - 1.5.0-preview.2
+          - 1.5.0-preview.3
+          - 2.0.0
+          - 2.0.1-preview.1
+          - 2.0.1
+          - 2.1.0-preview.1
+          - 2.1.0-preview.2
+          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -109621,8 +111243,8 @@ MonoBehaviour:
         m_HideInEditor: 1
         m_DatePublishedTicks: 637104744530000000
       IsInstalled: 0
-    listPackagesVersion: 87
-    listPackagesOfflineVersion: 86
+    listPackagesVersion: 122
+    listPackagesOfflineVersion: 121
     searchOperationOngoing: 1
     listOperationOngoing: 0
     listOperationOfflineOngoing: 0
@@ -109869,9 +111491,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 1336
-    y: 72
+    y: 73
     width: 582
-    height: 939
+    height: 928
   m_ViewDataDictionary: {fileID: 0}
   m_PosLeft: {x: 0, y: 0}
   m_PosRight: {x: 0, y: 0}
@@ -109898,31 +111520,31 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 927
-    y: 72
-    width: 407
-    height: 472
+    x: 1299
+    y: 73
+    width: 342
+    height: 466
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: fe380000
       m_LastClickedID: 0
-      m_ExpandedIDs: 44fbffff
+      m_ExpandedIDs: 8af7ffff3a3b0000643b0000763b0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: "\u69CD"
+        m_OriginalName: "\u69CD"
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 15178
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 10}
       m_SearchString: 
@@ -109953,10 +111575,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1336
-    y: 72
-    width: 582
-    height: 939
+    x: 1643
+    y: 73
+    width: 275
+    height: 928
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -109991,10 +111613,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 927
-    y: 563
-    width: 407
-    height: 448
+    x: 1299
+    y: 558
+    width: 342
+    height: 443
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -110009,34 +111631,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - "Assets/\u9810\u88FD\u7269 Prefabs"
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets
+  - "Assets/\u9810\u88FD\u7269 Prefabs"
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\KID\Projects\Unity\Practice_2D_Shooting_Game\UnityProject
+  m_LastProjectPath: D:\Desktop\GitHub\Practice_2D_Shooting_Game\UnityProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f42c0000
-    m_LastClickedID: 11508
-    m_ExpandedIDs: 00000000f42c000000ca9a3b
+    m_SelectedIDs: d2390000
+    m_LastClickedID: 14802
+    m_ExpandedIDs: 000000008a38000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Scripts
+      m_OriginalName: Scripts
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 14578
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -110050,7 +111672,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f42c0000
+    m_ExpandedIDs: 000000008a380000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -110077,7 +111699,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 00000000ce4d0000ce320000aa380000cc36000048300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -110105,7 +111727,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 96
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 141
+  m_DirectoriesAreaWidth: 112
 --- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -110128,9 +111750,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 415
-    width: 927
-    height: 596
+    y: 412
+    width: 1299
+    height: 589
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
   m_MaximizeOnPlay: 0
@@ -110143,10 +111765,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -463.5
-    m_HBaseRangeMax: 463.5
-    m_VBaseRangeMin: -260.75
-    m_VBaseRangeMax: 260.75
+    m_HBaseRangeMin: -508.5
+    m_HBaseRangeMax: 508.5
+    m_VBaseRangeMin: -286
+    m_VBaseRangeMax: 286
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -110164,25 +111786,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 927
-      height: 579
+      width: 1299
+      height: 572
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 463.5, y: 289.5}
+    m_Translation: {x: 649.5, y: 286}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -463.5
-      y: -289.5
-      width: 927
-      height: 579
+      x: -649.5
+      y: -286
+      width: 1299
+      height: 572
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1854, y: 1192}
+  m_LastWindowPixelSize: {x: 1299, y: 589}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
@@ -110209,9 +111831,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 72
-    width: 927
-    height: 324
+    y: 73
+    width: 1299
+    height: 320
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 99f99f78243ac7e4bb49a73fda5225fb

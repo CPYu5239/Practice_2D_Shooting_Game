@@ -480,9 +480,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 10
-  textHp: {fileID: 235324645}
+  hpText: {fileID: 235324645}
   aud: {fileID: 535656286}
-  soundHit: {fileID: 8300000, guid: 0bda53c42232dad41a2a79b16daf8b10, type: 3}
+  clip: {fileID: 8300000, guid: 0bda53c42232dad41a2a79b16daf8b10, type: 3}
 --- !u!82 &535656286
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1204,7 +1204,7 @@ MonoBehaviour:
   bullet: {fileID: 4188934032714802657, guid: 8058be627f9654545a83c5749037a195, type: 3}
   point: {fileID: 1212127335}
   aud: {fileID: 2129298586}
-  soundShoot: {fileID: 8300000, guid: e9552f51221d8f04999e786243374ffe, type: 3}
+  clip: {fileID: 8300000, guid: e9552f51221d8f04999e786243374ffe, type: 3}
   speed: 30
 --- !u!82 &2129298586
 AudioSource:
